@@ -2,18 +2,29 @@
 
 > *"From Day Zero to Zero Day"*
 
-Dieses Zitat bildet die Grundlage für den Aufbau dieser Wissensbibliothek. Ich bin Danial, Informatik-Student an der Hochschule Darmstadt (h_da). 
+Dieses Repository dient als zentrale Wissensbasis und Dokumentationsplattform für meine akademischen und praktischen Arbeiten im Bereich der Informatik und IT-Sicherheit (Hochschule Darmstadt).
 
-Das **CyberDans-Lab** ist ein strukturiertes Repository, das der Konsolidierung und Dokumentation meiner praktischen und theoretischen Erkenntnisse im Bereich der Informatik und IT-Sicherheit dient. Es fungiert als iteratives Nachschlagewerk und technische Basis meiner Arbeit.
-
-Die hier aggregierten Ressourcen umfassen primär:
-
-- 🔬 **Architektur- und Infrastruktur-Projekte:** Konzeption, Implementierung und Absicherung (Hardening) von Systemen.
-- 💻 **Code-Repositories & Automatisierung:** Eigene Skripte und Programme mit Fokus auf Netzwerkanalyse und Security Tooling.
-- 📜 **Zertifizierungen & Methodik:** Dokumentierte Qualifikationen und detaillierte Writeups komplexer Security-Szenarien.
+Das **CyberDans-Lab** folgt einem strukturierten, iterativen Ansatz, um mathematische, algorithmische und netzwerktechnische Grundlagen in anwendbare Systeme und Analysen zu überführen.
 
 ---
 
-### Methodischer Ansatz
+### 🔬 Aktuelle Kernmodule
 
-Die Dokumentation innerhalb dieses Labs folgt dem Prinzip "Build in Public". Jedes Projekt spiegelt den Transfer von theoretischen Konzepten aus dem Studium in anwendbare, praktische Implementierungen wider – mit einem kontinuierlichen Fokus auf Best Practices und Systemintegrität.
+#### 1. Project Euler – Mathematische & Algorithmische Problemlösung
+* **Fokus:** Entwicklung effizienter Algorithmen, Datenstrukturen und mathematischer Optimierungen zur Lösung mathematisch-informatischer Fragestellungen.
+* **Methodik:** Analyse von Laufzeitkomplexitäten (Big-O Notation), mathematische Beweisführung und strukturierte Code-Implementierung.
+* **Technologien:** Python, C++
+
+#### 2. Cisco Networking Academy – Netzwerkinfrastruktur & Protokolle
+* **Fokus:** Fundiertes Verständnis von Netzwerkarchitekturen, Routing & Switching, IP-Adressierung (IPv4/IPv6) sowie Protokollanalysen auf OSI-Layer-Ebene.
+* **Methodik:** Konzeption von Netzwerktopologien (Cisco Packet Tracer), Konfiguration von Netzwerkkomponenten und Analyse von Paket-Streams.
+* **Schwerpunkte:** CCNA-relevante Module, Network Fundamentals, Protokollsicherheit.
+
+---
+
+### 📑 Methodische Dokumentation
+
+Jedes Teilprojekt wird innerhalb dieses Repositories nach folgenden wissenschaftlichen Kriterien aufgearbeitet:
+1. **Theoretische Grundlagen:** Mathematische Herleitung oder netzwerktechnisches Konzept.
+2. **Implementierung / Konfiguration:** Lauffähiger Quellcode bzw. dokumentierte Netzwerk-Topologien.
+3. **Analyse:** Performance-Betrachtungen, Komplexitätsbewertung oder PCAP-Protokollanalysen.
