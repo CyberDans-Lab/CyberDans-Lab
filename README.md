@@ -10,7 +10,16 @@ Das **CyberDans-Lab** folgt einem strukturierten, iterativen Ansatz, um mathemat
 
 ### Dashboard
 
-*Aktuell noch leer.*
+#### 🎓 Zertifikate & Weiterbildung
+| Kurs / Projekt | Beschreibung | Status | Link |
+| :--- | :--- | :---: | :--- |
+| **NetAcad: Einführung in die Cybersicherheit** | Grundlagen der Cybersicherheit, Bedrohungsvektoren und Schutzmechanismen (Cisco Networking Academy). | 🔄 In Arbeit | [🔗 Repository/Notizen](#) |
+
+#### 🎯 Skills & Kognitives Training
+| Plattform | Fokus | Profil / Link |
+| :--- | :--- | :--- |
+| **Schach (Lichess & Chess.com)** | Analytisches Denken, Taktik & Strategie. | [Lichess](https://lichess.org/@/CyberDans_ed) \| [Chess.com](https://www.chess.com/member/cyberdans_ed) |
+| **Tipp10** | 10-Finger-Schreibsystem zur Steigerung der Arbeits- und Coding-Effizienz.
 
 ---
 
