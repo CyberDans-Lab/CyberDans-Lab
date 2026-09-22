@@ -8,31 +8,32 @@ Das **CyberDans-Lab** folgt einem strukturierten, iterativen Ansatz, um mathemat
 
 ---
 
-### Dashboard
+### 🎛️ Projekt-Dashboard
 
 #### 🎓 Zertifikate & Weiterbildung
 | Kurs / Projekt | Beschreibung | Status | Link |
 | :--- | :--- | :---: | :--- |
-| **NetAcad: Einführung in die Cybersicherheit** | Grundlagen der Cybersicherheit, Bedrohungsvektoren und Schutzmechanismen. | 🔄 In Arbeit | [🔗 Repository/Notizen](#) |
+| **NetAcad: Einführung in die Cybersicherheit** | Grundlagen der Cybersicherheit, Bedrohungsvektoren und Schutzmechanismen. | 🔄 In Arbeit | [🔗 Repository](#) |
 
 #### ⚔️ Offensive Security & CTFs
-| Plattform | Beschreibung | Status | Profil / Link |
+| Plattform | Beschreibung | Status | Link |
 | :--- | :--- | :---: | :--- |
-| **Hack The Box** | Angewandtes Penetration Testing und praxisnahe Exploitation von Schwachstellen. | 🔄 Aktiv | [🔗 HTB-Profil](#) |
-| **TryHackMe** | Geführte Lernpfade und praktische Labs für Red & Blue Teaming. | 🔄 Aktiv | [🔗 THM-Profil](#) |
+| **Hack The Box** | Angewandtes Penetration Testing und praxisnahe Exploitation von Schwachstellen. | 🔄 Aktiv | [🔗 Repository](#) |
+| **TryHackMe** | Geführte Lernpfade und praktische Labs für Red & Blue Teaming. | 🔄 Aktiv | [🔗 Repository](#) |
+| **Hack This Site** | Web-Hacking-Challenges und Wargames zum Training grundlegender bis fortgeschrittener Exploitation-Techniken. | 🔄 Aktiv | [🔗 Repository](#) |
 
 #### 🔐 Kryptographie & Kryptoanalyse
-| Tool / Projekt | Beschreibung | Status | Profil / Link |
+| Tool / Projekt | Beschreibung | Status | Link |
 | :--- | :--- | :---: | :--- |
-| **CrypTool 2** | Visuelle Untersuchung und Implementierung kryptographischer Verfahren und Protokolle. | 🔄 Aktiv | [🔗 Repository/Notizen](#) |
+| **CrypTool 2** | Visuelle Untersuchung und Implementierung kryptographischer Verfahren und Protokolle. | 🔄 Aktiv | [🔗 Repository](#) |
 
 #### 🧠 Algorithmik & Programmierung
-| Plattform / Projekt | Beschreibung | Status | Profil / Link |
+| Plattform / Projekt | Beschreibung | Status | Link |
 | :--- | :--- | :---: | :--- |
-| **Project Euler** | Algorithmische Umsetzung komplexer mathematischer Probleme zur Schärfung der Problemlösungskompetenz. | 🔄 Aktiv | [🔗 Repository/Notizen](#) |
+| **Project Euler** | Algorithmische Umsetzung komplexer mathematischer Probleme zur Schärfung der Problemlösungskompetenz. | 🔄 Aktiv | [🔗 Repository](#) |
 
 #### 🎯 Skills & Kognitives Training
-| Plattform | Fokus | Profil / Link |
+| Plattform | Fokus | Link |
 | :--- | :--- | :--- |
 | **Schach (Lichess & Chess.com)** | Analytisches Denken, Taktik & Strategie. | [Lichess](#) \| [Chess.com](#) |
 | **Tipp10** | 10-Finger-Schreibsystem zur Steigerung der Arbeits- und Coding-Effizienz. | [Tipp10-Statistiken](#) |
