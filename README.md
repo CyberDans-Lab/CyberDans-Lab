@@ -35,8 +35,8 @@ Das **CyberDans-Lab** folgt einem strukturierten, iterativen Ansatz, um mathemat
 #### 🎯 Skills & Kognitives Training
 | Plattform | Fokus | Link |
 | :--- | :--- | :--- |
-| **Schach (Lichess & Chess.com)** | Analytisches Denken, Taktik & Strategie. | [Lichess](#) \| [Chess.com](#) |
-| **Tipp10** | 10-Finger-Schreibsystem zur Steigerung der Arbeits- und Coding-Effizienz. | [Tipp10-Statistiken](#) |
+| **Schach (Lichess & Chess.com)** | Analytisches Denken, Taktik & Strategie. | [Lichess](https://lichess.org/@/CyberDans_ed) | [Chess.com](https://www.chess.com/member/cyberdans_ed) |
+| **Tipp10** | 10-Finger-Schreibsystem zur Steigerung der Arbeits- und Coding-Effizienz. | [Tipp10-Statistiken](https://online.tipp10.com/en/results/) |
 
 ---
 
