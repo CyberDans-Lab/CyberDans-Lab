@@ -13,13 +13,29 @@ Das **CyberDans-Lab** folgt einem strukturierten, iterativen Ansatz, um mathemat
 #### 🎓 Zertifikate & Weiterbildung
 | Kurs / Projekt | Beschreibung | Status | Link |
 | :--- | :--- | :---: | :--- |
-| **NetAcad: Einführung in die Cybersicherheit** | Grundlagen der Cybersicherheit, Bedrohungsvektoren und Schutzmechanismen (Cisco Networking Academy). | 🔄 In Arbeit | [🔗 Repository/Notizen](#) |
+| **NetAcad: Einführung in die Cybersicherheit** | Grundlagen der Cybersicherheit, Bedrohungsvektoren und Schutzmechanismen. | 🔄 In Arbeit | [🔗 Repository/Notizen](#) |
+
+#### ⚔️ Offensive Security & CTFs
+| Plattform | Beschreibung | Status | Profil / Link |
+| :--- | :--- | :---: | :--- |
+| **Hack The Box** | Angewandtes Penetration Testing und praxisnahe Exploitation von Schwachstellen. | 🔄 Aktiv | [🔗 HTB-Profil](#) |
+| **TryHackMe** | Geführte Lernpfade und praktische Labs für Red & Blue Teaming. | 🔄 Aktiv | [🔗 THM-Profil](#) |
+
+#### 🔐 Kryptographie & Kryptoanalyse
+| Tool / Projekt | Beschreibung | Status | Profil / Link |
+| :--- | :--- | :---: | :--- |
+| **CrypTool 2** | Visuelle Untersuchung und Implementierung kryptographischer Verfahren und Protokolle. | 🔄 Aktiv | [🔗 Repository/Notizen](#) |
+
+#### 🧠 Algorithmik & Programmierung
+| Plattform / Projekt | Beschreibung | Status | Profil / Link |
+| :--- | :--- | :---: | :--- |
+| **Project Euler** | Algorithmische Umsetzung komplexer mathematischer Probleme zur Schärfung der Problemlösungskompetenz. | 🔄 Aktiv | [🔗 Repository/Notizen](#) |
 
 #### 🎯 Skills & Kognitives Training
 | Plattform | Fokus | Profil / Link |
 | :--- | :--- | :--- |
-| **Schach (Lichess & Chess.com)** | Analytisches Denken, Taktik & Strategie. | [Lichess](https://lichess.org/@/CyberDans_ed) \| [Chess.com](https://www.chess.com/member/cyberdans_ed) |
-| **Tipp10** | 10-Finger-Schreibsystem zur Steigerung der Arbeits- und Coding-Effizienz.
+| **Schach (Lichess & Chess.com)** | Analytisches Denken, Taktik & Strategie. | [Lichess](#) \| [Chess.com](#) |
+| **Tipp10** | 10-Finger-Schreibsystem zur Steigerung der Arbeits- und Coding-Effizienz. | [Tipp10-Statistiken](#) |
 
 ---
 
