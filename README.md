@@ -13,7 +13,7 @@ Das **CyberDans-Lab** folgt einem strukturierten, iterativen Ansatz, um mathemat
 #### 🎓 Zertifikate & Weiterbildung
 | Kurs / Projekt | Beschreibung | Status | Link |
 | :--- | :--- | :---: | :--- |
-| **NetAcad: Einführung in die Cybersicherheit** | Grundlagen der Cybersicherheit, Bedrohungsvektoren und Schutzmechanismen. | 🔄 In Arbeit | [🔗 Repository](#) |
+| **NetAcad: Einführung in die Cybersicherheit** | Grundlagen der Cybersicherheit, Bedrohungsvektoren und Schutzmechanismen. | 🔄 Modul 1 | [🔗 Repository](https://github.com/CyberDans-Lab/Einfuehrung-in-die-Cybersicherheit-NetAcad) |
 
 #### ⚔️ Offensive Security & CTFs
 | Plattform | Beschreibung | Status | Link |
