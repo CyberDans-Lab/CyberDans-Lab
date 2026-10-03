@@ -8,7 +8,7 @@ Das **CyberDans-Lab** folgt einem strukturierten, iterativen Ansatz, um mathemat
 
 ---
 
-## 🎛️ Projekt-Dashboard
+### 🎛️ Projekt-Dashboard
 
 
 
