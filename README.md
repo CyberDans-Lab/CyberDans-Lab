@@ -10,6 +10,8 @@ Das **CyberDans-Lab** folgt einem strukturierten, iterativen Ansatz, um mathemat
 
 ### 🎛️ Projekt-Dashboard
 
+---
+
 #### 🖥️ Infrastruktur & Advanced HomeLab
 | Architektur / Komponente | Beschreibung | Status | Link |
 | :--- | :--- | :---: | :--- |
