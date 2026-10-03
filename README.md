@@ -10,6 +10,10 @@ Das **CyberDans-Lab** folgt einem strukturierten, iterativen Ansatz, um mathemat
 
 ### 🎛️ Projekt-Dashboard
 
+#### 🖥️ 🖥️ Infrastruktur & Advanced HomeLab
+| Architektur / Komponente | Beschreibung | Status | Link |
+| :--- | :--- | :---: | :--- |
+
 #### 🎓 Zertifikate & Weiterbildung
 | Kurs / Projekt | Beschreibung | Status | Link |
 | :--- | :--- | :---: | :--- |
@@ -36,8 +40,7 @@ Das **CyberDans-Lab** folgt einem strukturierten, iterativen Ansatz, um mathemat
 | Plattform | Fokus | Link |
 | :--- | :--- | :--- |
 | **Schach (Lichess & Chess.com)** | Analytisches Denken, Taktik & Strategie. | [Lichess](https://lichess.org/@/CyberDans_ed) \| [Chess.com](https://www.chess.com/member/cyberdans_ed) |
-| **Tipp10** | 10-Finger-Schreibsystem zur Steigerung der Arbeits- und Coding-Effizienz. | [Tipp10-Statistiken](https://online.tipp10.com/en/results) |
-| **Duolingo** | Sprachenlernen Englisch und Spanisch. | [Duolingo Profil] (https://www.duolingo.com/profile/CyberDan2)|
+| **Tipp10** | 10-Finger-Schreibsystem zur Steigerung der Arbeits- und Coding-Effizienz. | [Tipp10-Statistiken](https://online.tipp10.com/en/results/) |
 
 ---
 
