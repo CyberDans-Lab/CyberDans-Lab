@@ -26,7 +26,7 @@ Das **CyberDans-Lab** folgt einem strukturierten, iterativen Ansatz, um mathemat
 | :--- | :--- | :---: | :--- |
 | **Hack The Box** | Angewandtes Penetration Testing und praxisnahe Exploitation von Schwachstellen. | 🔄 Aktiv | [🔗 Repository](#) |
 | **TryHackMe** | Geführte Lernpfade und praktische Labs für Red & Blue Teaming. | 🔄 Aktiv | [🔗 Repository](#) |
-| **Hack This Site** | Web-Hacking-Challenges und Wargames zum Training grundlegender bis fortgeschrittener Exploitation-Techniken. | 🔄 Aktiv | [🔗 Repository](#) |
+| **Hack This Site** | Web-Hacking-Challenges und Wargames zum Training grundlegender bis fortgeschrittener Exploitation-Techniken. |Lvl: Basic 1| [🔗 Repository](#) |
 
 #### 🔐 Kryptographie & Kryptoanalyse
 | Tool / Projekt | Beschreibung | Status | Link |
