@@ -20,13 +20,14 @@ Das **CyberDans-Lab** folgt einem strukturierten, iterativen Ansatz, um mathemat
 | Kurs / Projekt | Beschreibung | Status | Link |
 | :--- | :--- | :---: | :--- |
 | **NetAcad: Einführung in die Cybersicherheit** | Grundlagen der Cybersicherheit, Bedrohungsvektoren und Schutzmechanismen. | 🔄 Modul 1 | [🔗 Repository](https://github.com/CyberDans-Lab/Einfuehrung-in-die-Cybersicherheit-NetAcad) |
+| **CS50's: Introduction to Cybersecurity** | Grundlagen der Cybersicherheit, Bedrohungsvektoren und Schutzmechanismen. | 🔄 Modul 1 | [🔗 Repository](https://github.com/CyberDans-Lab/CS50-s-Introduction-to-Cybersecurity) |
 
 #### ⚔️ Offensive Security & CTFs
 | Plattform | Beschreibung | Status | Link |
 | :--- | :--- | :---: | :--- |
 | **Hack The Box** | Angewandtes Penetration Testing und praxisnahe Exploitation von Schwachstellen. | 🔄 Aktiv | [🔗 Repository](#) |
 | **TryHackMe** | Geführte Lernpfade und praktische Labs für Red & Blue Teaming. | 🔄 Aktiv | [🔗 Repository](#) |
-| **Hack This Site** | Web-Hacking-Challenges und Wargames zum Training grundlegender bis fortgeschrittener Exploitation-Techniken. | 🔄 Basic 1 | [🔗 Repository](https://github.com/CyberDans-Lab/Hack_this_Site) |
+| **Hack This Site** | Web-Hacking-Challenges und Wargames zum Training grundlegender bis fortgeschrittener Exploitation-Techniken. | 🔄 Basic 2 | [🔗 Repository](https://github.com/CyberDans-Lab/Hack_this_Site) |
 
 #### 🔐 Kryptographie & Kryptoanalyse
 | Tool / Projekt | Beschreibung | Status | Link |
