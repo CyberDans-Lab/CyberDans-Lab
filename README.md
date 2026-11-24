@@ -34,7 +34,7 @@ Das **CyberDans-Lab** folgt einem strukturierten, iterativen Ansatz, um mathemat
 | Tool / Projekt | Beschreibung | Status | Link |
 | :--- | :--- | :---: | :--- |
 | **CrypTool 2** | Visuelle Untersuchung und Implementierung kryptographischer Verfahren und Protokolle. | ⭕ Not Started | [🔗 Repository](#) |
-| **CryptoHack** | Kryptographie-Challenges zur praktischen Analyse mathematischer Schwachstellen in Verschlüsselungs- und Signaturverfahren. | 🔄 Not Startet | [🔗 Repository](#) & [🔗Profile](https://cryptohack.org/user/cyberdanslab/)|
+| **CryptoHack** | Kryptographie-Challenges zur praktischen Analyse mathematischer Schwachstellen in Verschlüsselungs- und Signaturverfahren. | ⭕ Not Started | [🔗 Repository](#) & [🔗Profile](https://cryptohack.org/user/cyberdanslab/)|
 
 #### 🧠 Algorithmik & Programmierung
 | Plattform / Projekt | Beschreibung | Status | Link |
