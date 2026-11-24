@@ -15,31 +15,31 @@ Das **CyberDans-Lab** folgt einem strukturierten, iterativen Ansatz, um mathemat
 #### 🖥️ Infrastruktur & Advanced HomeLab
 | Projekt | Beschreibung | Status | Link |
 | :--- | :--- | :---: | :---: |
-| **CyberDans HomeLab** | Gesamtdokumentation der Lab-Architektur, Netzwerk-Segmentierung, Virtualisierung und isolierter PoCs. | ⭕ Not Started | [🔗 Repository](https://github.com/CyberDans-Lab/Das-CyberLab.git) |
+| **CyberDans HomeLab** | Gesamtdokumentation der Lab-Architektur, Netzwerk-Segmentierung, Virtualisierung und isolierter PoCs. | ⭕ Not Started | [Repository](https://github.com/CyberDans-Lab/Das-CyberLab.git) |
 
 #### 🎓 Zertifikate & Weiterbildung
 | Kurs / Projekt | Beschreibung | Status | Link |
 | :--- | :--- | :---: | :--- |
-| **NetAcad: Einführung in die Cybersicherheit** | Grundlagen der Cybersicherheit, Bedrohungsvektoren und Schutzmechanismen. | ⭕ Not Started | [🔗 Repository](https://github.com/CyberDans-Lab/Einfuehrung-in-die-Cybersicherheit-NetAcad) |
-| **CS50's: Introduction to Cybersecurity** | Grundlagen der Cybersicherheit, Bedrohungsvektoren und Schutzmechanismen. | ⭕ Not Started | [🔗 Repository](https://github.com/CyberDans-Lab/CS50-s-Introduction-to-Cybersecurity) |
+| **NetAcad: Einführung in die Cybersicherheit** | Grundlagen der Cybersicherheit, Bedrohungsvektoren und Schutzmechanismen. | ⭕ Not Started | [Repository](https://github.com/CyberDans-Lab/Einfuehrung-in-die-Cybersicherheit-NetAcad) |
+| **CS50's: Introduction to Cybersecurity** | Grundlagen der Cybersicherheit, Bedrohungsvektoren und Schutzmechanismen. | ⭕ Not Started | [Repository](https://github.com/CyberDans-Lab/CS50-s-Introduction-to-Cybersecurity) |
 
 #### ⚔️ Offensive Security & CTFs
 | Plattform | Beschreibung | Status | Link |
 | :--- | :--- | :---: | :--- |
-| **Hack The Box** | Angewandtes Penetration Testing und praxisnahe Exploitation von Schwachstellen. | ⭕ Not Started | [🔗 Repository](#) |
-| **TryHackMe** | Geführte Lernpfade und praktische Labs für Red & Blue Teaming. | ⭕ Not Started | [🔗 Repository](#) |
-| **Hack This Site** | Web-Hacking-Challenges und Wargames zum Training grundlegender bis fortgeschrittener Exploitation-Techniken. | ⏳ Basic 2 | [🔗 Repository](https://github.com/CyberDans-Lab/Hack_this_Site) |
+| **Hack The Box** | Angewandtes Penetration Testing und praxisnahe Exploitation von Schwachstellen. | ⭕ Not Started | [Repository](#) |
+| **TryHackMe** | Geführte Lernpfade und praktische Labs für Red & Blue Teaming. | ⭕ Not Started | [Repository](#) |
+| **Hack This Site** | Web-Hacking-Challenges und Wargames zum Training grundlegender bis fortgeschrittener Exploitation-Techniken. | ⏳ Basic 2 | [Repository](https://github.com/CyberDans-Lab/Hack_this_Site) |
 
 #### 🔐 Kryptographie & Kryptoanalyse
 | Tool / Projekt | Beschreibung | Status | Link |
 | :--- | :--- | :---: | :--- |
-| **CrypTool 2** | Visuelle Untersuchung und Implementierung kryptographischer Verfahren und Protokolle. | ⭕ Not Started | [🔗 Repository](#) |
-| **CryptoHack** | Kryptographie-Challenges zur praktischen Analyse mathematischer Schwachstellen in Verschlüsselungs- und Signaturverfahren. | ⭕ Not Started | [🔗 Repository](#) & [🔗Profile](https://cryptohack.org/user/cyberdanslab/)|
+| **CrypTool 2** | Visuelle Untersuchung und Implementierung kryptographischer Verfahren und Protokolle. | ⭕ Not Started | [Repository](#) |
+| **CryptoHack** | Kryptographie-Challenges zur praktischen Analyse mathematischer Schwachstellen in Verschlüsselungs- und Signaturverfahren. | ⭕ Not Started | [Repository](#) & [Profile](https://cryptohack.org/user/cyberdanslab/)|
 
 #### 🧠 Algorithmik & Programmierung
 | Plattform / Projekt | Beschreibung | Status | Link |
 | :--- | :--- | :---: | :--- |
-| **Project Euler** | Algorithmische Umsetzung komplexer mathematischer Probleme zur Schärfung der Problemlösungskompetenz. | ⭕ Not Started | [🔗 Repository](#) |
+| **Project Euler** | Algorithmische Umsetzung komplexer mathematischer Probleme zur Schärfung der Problemlösungskompetenz. | ⭕ Not Started | [Repository](#) |
 
 #### 🎯 Skills & Kognitives Training
 | Plattform | Fokus | Link |
